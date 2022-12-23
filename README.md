@@ -1,4 +1,4 @@
-# Program-C-Konversi-Suhu-Celcius
+# Program C++ Konversi Suhu Celcius
 Sederhana program C++ yang dapat digunakan untuk mengkonversi suhu dari derajat Celcius ke derajat Fahrenheit dan derajat Kelvin
 
 
